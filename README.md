@@ -25,3 +25,14 @@ Built a fully functional Security Information and Event Management (SIEM) home l
 - Endpoint agent deployment
 - Attack simulation and detection
 - VirtualBox network configuration
+
+## Screenshots
+
+### Agent Overview
+![Agent Overview](Agent-Overview.png)
+
+### File Integrity Monitoring Dashboard
+![FIM Dashboard](FIM-Dashboard.png)
+
+### Threat Hunting - Attack Detection
+![Threat Hunting](Threat-Hunting.png)
