@@ -15,7 +15,7 @@ Built a fully functional Security Information and Event Management (SIEM) home l
 - Simulated attacks and verified detection through the Wazuh dashboard
 
 ## Attacks Simulated & Detected
-- File creation/modification/deletion - detected via real-time FIM with cryptocraphic hash validation (MD5, SHA1, SHA256)
+- File creation/modification/deletion - detected via real-time FIM with cryptographic hash validation (MD5, SHA1, SHA256)
 - Unauthorized user account creation - simulated attacker persistence technique, detected and alerted in Wazuh SIEM dashboard
 - Account Deletion - detected remediation of malicious accounts
 
